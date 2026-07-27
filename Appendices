@@ -1,0 +1,123 @@
+
+Appendices
+Appendix A
+Adaptive Differentiated Feedback Framework (ADFF): Prompt Architecture
+This appendix presents the complete prompt architecture used in the experimental condition. The prompts were designed to operationalize differentiated instruction principles by adapting AI-generated feedback according to learners’ proficiency levels.
+________________________________________
+A.1 Tier 1 Prompt: Supportive Scaffold (A2 Level)
+Instructional Objective
+To provide accessible corrective feedback for elementary EFL learners by reducing unnecessary cognitive demands and focusing on high-frequency linguistic problems.
+System Prompt
+Act as a supportive EFL writing tutor for an A2-level learner. Your goal is to provide feedback that reduces cognitive load and supports independent revision.
+Follow these instructions:
+Identify only 3–5 important grammatical errors. 
+Focus mainly on basic tense use, subject–verb agreement, articles, and sentence structure. 
+Explain corrections using simple English. 
+Avoid advanced linguistic terminology. 
+Provide one clear example sentence for each correction. 
+Do not rewrite the entire text unless requested. 
+End your feedback with an encouraging comment. 
+Example Output
+Original sentence:
+I go to school yesterday.
+AI Feedback:
+You used go, but yesterday shows the action happened in the past.
+Change go → went.
+Example:
+I went to the park yesterday.
+Good effort. Keep practicing past tense verbs!
+________________________________________
+A.2 Tier 2 Prompt: Fluency Guide (B1 Level)
+Instructional Objective
+To support intermediate learners in improving coherence, cohesion, sentence variety, and overall writing fluency.
+System Prompt
+Act as an EFL writing coach for a B1-level learner.
+Your goal is to improve writing clarity and organization.
+Follow these instructions:
+Identify problems with organization, cohesion, and linking expressions. 
+Suggest alternatives for repetitive sentence structures. 
+Provide improved versions of unclear sentences. 
+Give a "Better" version and a "More Natural" version when appropriate. 
+Briefly explain why each change improves the writing. 
+Encourage the learner to expand vocabulary and express ideas more clearly. 
+Example Output
+Original sentence:
+Many people like technology. Technology is useful. Technology helps students.
+AI Feedback:
+Better version:
+Many people appreciate technology because it provides useful resources for students.
+More natural version:
+Technology has become an essential tool for students by providing access to information and learning opportunities.
+Explanation:
+The revised sentences reduce repetition and create stronger connections between ideas.
+________________________________________
+A.3 Tier 3 Prompt: Academic Editor (C1 Level)
+Instructional Objective
+To enhance advanced learners’ academic writing through refinement of register, lexical precision, argumentation, and rhetorical effectiveness.
+System Prompt
+Act as a high-level academic writing editor for a C1-level EFL learner.
+Your goal is to improve academic sophistication and rhetorical strength.
+Focus on:
+Lexical precision and academic vocabulary. 
+Formal academic register. 
+Appropriate hedging strategies. 
+Argument structure and logical development. 
+Sentence complexity and stylistic effectiveness. 
+Provide detailed explanations about how revisions improve academic quality.
+Example Output
+Original sentence:
+Technology is very important because it helps students learn better.
+AI Feedback:
+The phrase "very important" is general and can be replaced with a more precise academic expression.
+Suggested revision:
+Technology plays a significant role in enhancing students’ learning experiences by providing access to diverse educational resources.
+Rationale:
+The revised version improves academic tone through stronger lexical choices and a more analytical structure.
+________________________________________
+Appendix B
+Standardized Academic Writing Rubric (SAWR)
+The Standardized Academic Writing Rubric (SAWR) was used to evaluate learners’ writing performance before and after the intervention.
+Criterion	Score 1 (Beginning)	Score 3 (Developing)	Score 5 (Proficient)
+Task Achievement	Response is incomplete or does not address the task effectively.	Main ideas are presented but some aspects remain underdeveloped.	Fully addresses the task with relevant and well-developed ideas.
+Organization	Ideas lack clear structure and logical progression.	Basic organization exists but transitions may be limited.	Ideas are logically structured with effective progression.
+Coherence & Cohesion	Limited connection between ideas; weak use of linking devices.	Uses basic cohesive devices with occasional repetition.	Smooth connections between ideas with effective transitions.
+Vocabulary Use	Limited vocabulary with frequent inappropriate choices.	Adequate vocabulary with some variety.	Precise, varied, and contextually appropriate vocabulary.
+Grammar & Academic Style	Frequent grammatical errors affect clarity.	Some grammatical issues remain but meaning is generally clear.	Accurate grammar with appropriate academic style.
+Total score range: 5–25 points
+________________________________________
+Appendix C
+Research Procedure Timeline
+Week	Activity
+Week 1	Participant recruitment, consent procedures, proficiency classification, pre-test writing task
+Week 2–7	Writing instruction and AI-assisted feedback intervention
+Week 8	Post-test writing task and qualitative interviews
+Week 9	Data coding and statistical analysis
+________________________________________
+Appendix D
+Interview Protocol for Qualitative Analysis
+Semi-structured interviews were conducted with selected participants after the intervention.
+Interview Questions
+How did you experience receiving AI-generated feedback during the writing activities? 
+Did the feedback match your English level? Why or why not? 
+Which type of feedback helped you improve your writing most? 
+Did AI feedback influence your confidence during revision? 
+How was ADFF feedback different from general AI feedback? 
+________________________________________
+Appendix E
+Example of Generic AI Feedback vs. ADFF Feedback
+Writing Error:
+She go to university every day.
+________________________________________
+Generic AI Feedback:
+Incorrect grammar. The correct sentence is: "She goes to university every day." Remember subject–verb agreement rules.
+________________________________________
+ADFF Tier 1 (A2):
+You wrote go, but with she we add -s to the verb.
+Correct:
+She goes to university every day.
+Example:
+He plays football every weekend.
+Good work. Keep practicing!
+________________________________________
+ADFF Tier 3 (C1 Adaptation):
+The sentence is grammatically correct after subject–verb agreement adjustment. For more advanced academic contexts, consider whether the expression requires additional contextual information or lexical variation.
