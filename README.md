@@ -3,6 +3,17 @@
 This repository contains the manuscript materials, research data, figures, and supplementary files for:
 
 **Adaptive Differentiated Feedback Framework (ADFF): Enhancing EFL Writing Development through Proficiency-Sensitive Generative AI Feedback**
+# ADFF: Adaptive Differentiated Feedback Framework
+
+<p align="center">
+  <img src="figures/ga.png" width="900" alt="Graphic Abstract">
+</p>
+
+<p align="center"><b>Graphic Abstract</b></p>
+
+This repository contains the manuscript, figures, data package, and supplementary files for:
+
+**Adaptive Differentiated Feedback Framework (ADFF): Enhancing EFL Writing Development through Proficiency-Sensitive Generative AI Feedback**
 
 ## Key Results
 
