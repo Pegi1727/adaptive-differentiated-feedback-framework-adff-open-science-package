@@ -18,32 +18,28 @@ This repository contains the manuscript materials, research data, figures, and s
 <table>
   <tr>
     <td align="center">
-      <img src="figures/1.png" width="240"><br>
+      <img src="Figures/1.png" width="240"><br>
       <b>Figure 1.</b> Conceptual Framework
     </td>
     <td align="center">
-      <img src="figures/2.png" width="240"><br>
+      <img src="Figures/2.png" width="240"><br>
       <b>Figure 2.</b> Research Design
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="figures/3.png" width="240"><br>
+      <img src="Figures/3.png" width="240"><br>
       <b>Figure 3.</b> Prompt Engineering Architecture
     </td>
     <td align="center">
-      <img src="figures/4.png" width="240"><br>
+      <img src="Figures/4.png" width="240"><br>
       <b>Figure 4.</b> Results
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="figures/5.png" width="240"><br>
+      <img src="Figures/5.png" width="240"><br>
       <b>Figure 5.</b> Discussion Mechanism
-    </td>
-    <td align="center">
-      <img src="figures/ga.png" width="240"><br>
-      <b>Figure 6.</b> Generic AI vs. ADFF Example
     </td>
   </tr>
 </table>
@@ -55,7 +51,7 @@ ADFF is a proficiency-sensitive generative AI feedback model designed to align f
 ## Repository Contents
 
 - `manuscript/` — LaTeX manuscript files
-- `figures/` — article figures and visualizations
+- `Figures/` — article figures and visualizations
 - `data/` — research data package and supporting tables
 - `code/` — analysis scripts or reproducibility code
 - `docs/` — supplementary documentation
