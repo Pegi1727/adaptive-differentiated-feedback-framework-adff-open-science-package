@@ -1,7 +1,7 @@
 # ADFF: Adaptive Differentiated Feedback Framework
 
 <p align="center">
-  <img src="figures/ga.png" width="950" alt="Graphic Abstract">
+  <img src="Figures/ga.png" width="950" alt="Graphic Abstract">
 </p>
 
 <p align="center"><b>Graphic Abstract</b></p>
@@ -23,38 +23,38 @@ This repository contains the manuscript, figures, data package, and supplementar
 
 The Adaptive Differentiated Feedback Framework (ADFF) is a proficiency-sensitive generative AI feedback model designed to align feedback complexity, explicitness, and pedagogical support with learners’ English proficiency levels (A2, B1, and C1).
 
-This study employed a quasi-experimental mixed-methods design to compare adaptive AI-generated feedback with conventional non-differentiated AI feedback in EFL writing development. The findings suggest that proficiency-sensitive feedback can more effectively promote writing improvement, especially among lower-proficiency learners.
+This study employed a quasi-experimental mixed-methods design to compare adaptive AI-generated feedback with conventional non-differentiated AI feedback in EFL writing development.
 
 ## Figures
 
 <table>
   <tr>
     <td align="center">
-      <img src="figures/Figure_1.png" width="240"><br>
+      <img src="Figures/Figure_1.png" width="240"><br>
       <b>Figure 1.</b> Conceptual Framework
     </td>
     <td align="center">
-      <img src="figures/Figure_2.png" width="240"><br>
+      <img src="Figures/Figure_2.png" width="240"><br>
       <b>Figure 2.</b> Research Design
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="figures/Figure_3.png" width="240"><br>
+      <img src="Figures/Figure_3.png" width="240"><br>
       <b>Figure 3.</b> Prompt Engineering Architecture
     </td>
     <td align="center">
-      <img src="figures/Figure_4_APA_Results.png" width="240"><br>
+      <img src="Figures/Figure_4_APA_Results.png" width="240"><br>
       <b>Figure 4.</b> Results
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="figures/Figure_5.png" width="240"><br>
+      <img src="Figures/Figure_5.png" width="240"><br>
       <b>Figure 5.</b> Discussion Mechanism
     </td>
     <td align="center">
-      <img src="figures/ga.png" width="240"><br>
+      <img src="Figures/ga.png" width="240"><br>
       <b>Figure 6.</b> Graphic Abstract
     </td>
   </tr>
@@ -63,7 +63,7 @@ This study employed a quasi-experimental mixed-methods design to compare adaptiv
 ## Repository Contents
 
 - `manuscript/` — LaTeX manuscript files and writing materials  
-- `figures/` — article figures, graphic abstract, and visual assets  
+- `Figures/` — article figures, graphic abstract, and visual assets  
 - `data/` — research data package and supporting files  
 - `code/` — analysis scripts or reproducibility code  
 - `docs/` — supplementary project documentation  
@@ -76,8 +76,6 @@ This study employed a quasi-experimental mixed-methods design to compare adaptiv
 - Figures and manuscript resources are organized for academic archiving and open-science sharing.
 
 ## Contact
-
-For questions, collaboration, or academic correspondence:
 
 **Pegah Merrikhi**  
 Email: `Pegah.merrikhiii@gmail.com`
