@@ -98,39 +98,41 @@ The statistically significant interaction suggests that the effectiveness of AI-
 ![Graphic Abstract](https://raw.githubusercontent.com/Pegi1727/adaptive-differentiated-feedback-framework-adff-open-science-package/main/Figures/ga.png)
 
 ---
+## 📚 Citation
 
-## 📁 Repository Structure
-```text
-adaptive-differentiated-feedback-framework-adff-open-science-package/
-│
-├── README.md
-├── CITATION.cff
-├── LICENSE
-│
-├── manuscript/
-│   ├── manuscript.tex
-│   ├── manuscript.pdf
-│   └── supplementary-materials/
-│
-├── Figures/
-│   ├── 1.png
-│   ├── 2.png
-│   ├── 3.png
-│   ├── 4.png
-│   ├── 5.png
-│   └── ga.png
-│
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── codebook/
-│
-├── code/
-│   ├── data-cleaning/
-│   ├── statistical-analysis/
-│   └── visualization/
-│
-└── docs/
-├── prompts/
+If you use the ADFF framework, data, prompts, figures, or other materials from this repository, please cite the research package as follows:
+
+### APA 7th Edition
+
+Merrikhi, P. (2025). *Adaptive Differentiated Feedback Framework (ADFF): Enhancing EFL writing development through proficiency-sensitive generative AI feedback* [Open-science research package]. Zenodo. https://doi.org/10.5281/zenodo.21805840
+
+### BibTeX
+```bibtex
+@misc{merrikhi2025adff,
+  author       = {Merrikhi, Pegah},
+  title        = {{Adaptive Differentiated Feedback Framework (ADFF):
+Enhancing EFL Writing Development through
+Proficiency-Sensitive Generative AI Feedback}},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.21805840},
+  url          = {https://doi.org/10.5281/zenodo.21805840},
+  note         = {Open-science research package}
+}
+---
+
+## Contact
+
+```markdown
+## ✉️ Contact
+
+For questions about the ADFF framework, research materials, data availability, or potential collaborations, please contact:
+
+**Pegah Merrikhi**  
+Independent Researcher  
+Iran  
+
+📧 **Email:** [Pegah.merrikhiii@gmail.com](mailto:Pegah.merrikhiii@gmail.com)
+
 ├── reproducibility-notes.md
 └── supplementary-information.md
