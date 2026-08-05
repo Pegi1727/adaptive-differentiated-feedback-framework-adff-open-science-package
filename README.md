@@ -1,11 +1,6 @@
 # ADFF: Adaptive Differentiated Feedback Framework
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Pegi1727/adaptive-differentiated-feedback-framework-adff-open-science-package/main/Figures/ga.png"
-    width="950"
-    alt="Graphic Abstract of the Adaptive Differentiated Feedback Framework">
-</p>
+![Graphic Abstract](https://raw.githubusercontent.com/Pegi1727/adaptive-differentiated-feedback-framework-adff-open-science-package/main/Figures/ga.png)
 
 <p align="center">
   <strong>Graphic Abstract</strong>
@@ -65,35 +60,36 @@ The research package includes the manuscript, figures, data resources, analysis 
 The statistically significant interaction suggests that the effectiveness of AI-generated feedback was influenced by learners’ proficiency level. The findings therefore support the value of **proficiency-sensitive feedback design** rather than a one-size-fits-all approach.
 
 ---
+
 ## 🖼️ Figures
 
 ### Figure 1. Conceptual Framework
 
-![Figure 1: Conceptual Framework](https://raw.githubusercontent.com/Pegi1727/adaptive-differentiated-feedback-framework-adff-open-science-package/main/Figures/1.png)
+![Figure 1. Conceptual Framework](https://raw.githubusercontent.com/Pegi1727/adaptive-differentiated-feedback-framework-adff-open-science-package/main/Figures/1.png)
 
 ---
 
 ### Figure 2. Research Design
 
-![Figure 2: Research Design](https://raw.githubusercontent.com/Pegi1727/adaptive-differentiated-feedback-framework-adff-open-science-package/main/Figures/2.png)
+![Figure 2. Research Design](https://raw.githubusercontent.com/Pegi1727/adaptive-differentiated-feedback-framework-adff-open-science-package/main/Figures/2.png)
 
 ---
 
 ### Figure 3. Prompt Engineering Architecture
 
-![Figure 3: Prompt Engineering Architecture](https://raw.githubusercontent.com/Pegi1727/adaptive-differentiated-feedback-framework-adff-open-science-package/main/Figures/3.png)
+![Figure 3. Prompt Engineering Architecture](https://raw.githubusercontent.com/Pegi1727/adaptive-differentiated-feedback-framework-adff-open-science-package/main/Figures/3.png)
 
 ---
 
 ### Figure 4. Statistical Results
 
-![Figure 4: Statistical Results](https://raw.githubusercontent.com/Pegi1727/adaptive-differentiated-feedback-framework-adff-open-science-package/main/Figures/4.png)
+![Figure 4. Statistical Results](https://raw.githubusercontent.com/Pegi1727/adaptive-differentiated-feedback-framework-adff-open-science-package/main/Figures/4.png)
 
 ---
 
 ### Figure 5. Discussion Mechanism
 
-![Figure 5: Discussion Mechanism](https://raw.githubusercontent.com/Pegi1727/adaptive-differentiated-feedback-framework-adff-open-science-package/main/Figures/5.png)
+![Figure 5. Discussion Mechanism](https://raw.githubusercontent.com/Pegi1727/adaptive-differentiated-feedback-framework-adff-open-science-package/main/Figures/5.png)
 
 ---
 
@@ -101,8 +97,7 @@ The statistically significant interaction suggests that the effectiveness of AI-
 
 ![Graphic Abstract](https://raw.githubusercontent.com/Pegi1727/adaptive-differentiated-feedback-framework-adff-open-science-package/main/Figures/ga.png)
 
-
-
+---
 
 ## 📁 Repository Structure
 ```text
