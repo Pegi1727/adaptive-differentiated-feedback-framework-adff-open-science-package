@@ -120,7 +120,6 @@ Proficiency-Sensitive Generative AI Feedback}},
   note         = {Open-science research package}
 }
 
----
 
 ## ✉️ Contact
 
