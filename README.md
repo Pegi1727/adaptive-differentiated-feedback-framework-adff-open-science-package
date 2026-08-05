@@ -65,30 +65,6 @@ The research package includes the manuscript, figures, data resources, analysis 
 The statistically significant interaction suggests that the effectiveness of AI-generated feedback was influenced by learners’ proficiency level. The findings therefore support the value of **proficiency-sensitive feedback design** rather than a one-size-fits-all approach.
 
 ---
-
-## 🖼️ Figures
-
-### Figure 1. Conceptual Framework
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Pegi1727/adaptive-differentiated-feedback-framework-adff-open-science-package/main/Figures/1.png"
-    width="850"
-    alt="Conceptual framework of the ADFF study">
-</p>
-
----
-
-### Figure 2. Research Design
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Pegi1727/adaptive-differentiated-feedback-framework-adff-open-science-package/main/Figures/2.png"
-    width="850"
-    alt="Research design of the ADFF study">
-</p>
-
----
 ## 🖼️ Figures
 
 ### Figure 1. Conceptual Framework
@@ -126,49 +102,7 @@ The statistically significant interaction suggests that the effectiveness of AI-
 ![Graphic Abstract](https://raw.githubusercontent.com/Pegi1727/adaptive-differentiated-feedback-framework-adff-open-science-package/main/Figures/ga.png)
 
 
-### Figure 3. Prompt Engineering Architecture
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Pegi1727/adaptive-differentiated-feedback-framework-adff-open-science-package/main/Figures/3.png"
-    width="850"
-    alt="Prompt engineering architecture used in the ADFF framework">
-</p>
-
----
-
-### Figure 4. Statistical Results
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Pegi1727/adaptive-differentiated-feedback-framework-adff-open-science-package/main/Figures/4.png"
-    width="850"
-    alt="Statistical results of the ADFF study">
-</p>
-
----
-
-### Figure 5. Discussion Mechanism
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Pegi1727/adaptive-differentiated-feedback-framework-adff-open-science-package/main/Figures/5.png"
-    width="850"
-    alt="Discussion mechanism of the ADFF framework">
-</p>
-
----
-
-### Graphic Abstract
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Pegi1727/adaptive-differentiated-feedback-framework-adff-open-science-package/main/Figures/ga.png"
-    width="950"
-    alt="Graphic abstract of the Adaptive Differentiated Feedback Framework">
-</p>
-
----
 
 ## 📁 Repository Structure
 ```text
