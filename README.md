@@ -89,6 +89,42 @@ The statistically significant interaction suggests that the effectiveness of AI-
 </p>
 
 ---
+## 🖼️ Figures
+
+### Figure 1. Conceptual Framework
+
+![Figure 1: Conceptual Framework](https://raw.githubusercontent.com/Pegi1727/adaptive-differentiated-feedback-framework-adff-open-science-package/main/Figures/1.png)
+
+---
+
+### Figure 2. Research Design
+
+![Figure 2: Research Design](https://raw.githubusercontent.com/Pegi1727/adaptive-differentiated-feedback-framework-adff-open-science-package/main/Figures/2.png)
+
+---
+
+### Figure 3. Prompt Engineering Architecture
+
+![Figure 3: Prompt Engineering Architecture](https://raw.githubusercontent.com/Pegi1727/adaptive-differentiated-feedback-framework-adff-open-science-package/main/Figures/3.png)
+
+---
+
+### Figure 4. Statistical Results
+
+![Figure 4: Statistical Results](https://raw.githubusercontent.com/Pegi1727/adaptive-differentiated-feedback-framework-adff-open-science-package/main/Figures/4.png)
+
+---
+
+### Figure 5. Discussion Mechanism
+
+![Figure 5: Discussion Mechanism](https://raw.githubusercontent.com/Pegi1727/adaptive-differentiated-feedback-framework-adff-open-science-package/main/Figures/5.png)
+
+---
+
+### Graphic Abstract
+
+![Graphic Abstract](https://raw.githubusercontent.com/Pegi1727/adaptive-differentiated-feedback-framework-adff-open-science-package/main/Figures/ga.png)
+
 
 ### Figure 3. Prompt Engineering Architecture
 
