@@ -119,8 +119,7 @@ Proficiency-Sensitive Generative AI Feedback}},
   url          = {https://doi.org/10.5281/zenodo.21805840},
   note         = {Open-science research package}
 }
-
-
+---
 ## ✉️ Contact
 
 For questions about the ADFF framework, research materials, data availability, or potential collaborations, please contact:
