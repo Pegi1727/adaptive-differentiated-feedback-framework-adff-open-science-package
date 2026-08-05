@@ -93,11 +93,6 @@ The statistically significant interaction suggests that the effectiveness of AI-
 
 ---
 
-### Graphic Abstract
-
-![Graphic Abstract](https://raw.githubusercontent.com/Pegi1727/adaptive-differentiated-feedback-framework-adff-open-science-package/main/Figures/ga.png)
-
----
 ## 📚 Citation
 
 If you use the ADFF framework, data, prompts, figures, or other materials from this repository, please cite the research package as follows:
