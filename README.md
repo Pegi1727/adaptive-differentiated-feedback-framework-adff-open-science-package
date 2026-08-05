@@ -106,19 +106,7 @@ If you use the ADFF framework, data, prompts, figures, or other materials from t
 
 Merrikhi, P. (2025). *Adaptive Differentiated Feedback Framework (ADFF): Enhancing EFL writing development through proficiency-sensitive generative AI feedback* [Open-science research package]. Zenodo. https://doi.org/10.5281/zenodo.21805840
 
-### BibTeX
-```bibtex
-@misc{merrikhi2025adff,
-  author       = {Merrikhi, Pegah},
-  title        = {{Adaptive Differentiated Feedback Framework (ADFF):
-Enhancing EFL Writing Development through
-Proficiency-Sensitive Generative AI Feedback}},
-  year         = {2025},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.21805840},
-  url          = {https://doi.org/10.5281/zenodo.21805840},
-  note         = {Open-science research package}
-}
+
 ---
 ## ✉️ Contact
 
